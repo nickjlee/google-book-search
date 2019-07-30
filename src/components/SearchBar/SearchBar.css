@@ -1,0 +1,34 @@
+.search-bar {
+  margin: 20px auto 10px;
+  max-width: 600px;
+}
+
+.search-form__input {
+  margin-bottom: 10px;
+}
+
+.search-form__input > input {
+  font-size: 24px;
+  width: 500px;
+  height: 50px;
+  padding-left: 15px;
+}
+
+.search-form__input > button {
+  height: 50px;
+  font-size: 24px;
+  margin-left: -1px;
+}
+
+.search-form__print-type {
+  float: left;
+}
+
+.search-form__print-type select,
+.search-form__book-type select {
+  font-size: 16px;
+}
+
+.search-form__book-type {
+  float: right;
+}

@@ -1,0 +1,27 @@
+.results-list {
+  padding: 0;
+}
+
+.results-list li {
+  list-style: none;
+  margin: 20px 40px;
+}
+
+.volume-main {
+  display: flex;
+}
+
+.volume-main img {
+  flex: 1;
+  margin: auto 20px;
+  flex-grow: 0;
+}
+
+.volume-info {
+  flex: 3;
+}
+
+.volume-description {
+  padding: 0 40px;
+  text-align: left;
+}
